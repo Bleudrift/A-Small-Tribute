@@ -1,0 +1,130 @@
+body {
+    margin: 20px;
+    padding: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+	  font-size: 1rem;
+	  line-height: 1.3;
+	  text-align: left;
+	  color: #333;
+  }
+  
+footer p {
+    margin: 20px;
+    text-align: center;
+    font-size: 0.8em;
+    padding-top: 0.6em;
+}
+
+footer a:hover {
+	color: magenta;
+	transition: 0.3s ease;
+}
+
+  #main {
+    width: 100%;  
+  }
+  
+  #image {
+      max-width: 60%;
+      min-height: 60%;
+      display: block;
+      margin: 0 auto;
+      opacity: .9;
+      font-size: .75em;
+      font-style: italic;
+      border: 10px solid rgb(151, 174, 247);
+      background-color: rgb(151, 174, 247); 
+  }
+
+  #img-caption {
+    max-width: 60%;
+    min-height: 90%;
+    margin-top: -20px;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: .9;
+    font-size: .75em;
+    font-style: italic;
+    border: 10px solid rgb(151, 174, 247);
+    background-color: rgb(151, 174, 247); 
+}
+
+  #tribute-info {
+    margin-left: 2em;
+  }
+
+  #tribute-link {
+    color:blue;
+  }
+
+  a#tribute-link:hover {
+    color: magenta;
+    }
+
+  a#tribute-link:visited {
+   color: #74638f;
+    }
+  
+  .highlight {
+    border-radius: 1rem;
+    background-color: yellow;
+    }
+
+  #title {
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+    color: navy;
+    margin-bottom: 80px;
+    background-color: rgb(151, 174, 247);
+    border: 1 px solid rgb(151, 174, 247);
+    box-shadow:0 30px 30px black;
+  }
+  
+  ul {
+    max-width: 550px;
+    margin: 0 0px 50px 50px;
+    text-align: left;
+    line-height: 1.8;
+  }
+  
+  .resource1 {
+    padding: 2em;
+    width: 50%;
+    margin: 1em auto;
+    background: rgba(2, 19, 75);
+    opacity: .9;
+    font-size: 1.1em;
+    text-align: center;
+    border: 1 px solid rgb(2, 16, 61);
+    box-shadow:0 10px 10px rgb(4, 22, 83);
+    }
+
+  .resource2 {
+    padding: 2em;
+    width: 50%;
+    margin: 1em auto;
+    background: rgba(2, 19, 75);
+    opacity: .9;
+    font-size: 1.1em;
+    text-align: center;
+    border: 1 px solid rgb(2, 16, 61);
+    box-shadow:0 10px 10px rgb(4, 22, 83);
+    }
+
+    .resource3 {
+      padding: 2em;
+      width: 50%;
+      margin: 1em auto;
+      background: rgba(2, 19, 75);
+      opacity: .9;
+      font-size: 1.1em;
+      text-align: center;
+      border: 1 px solid rgb(2, 16, 61);
+      box-shadow:0 10px 10px rgb(4, 22, 83);
+      }
+
+
+    a:visited {
+      color: #74638f;
+    }
